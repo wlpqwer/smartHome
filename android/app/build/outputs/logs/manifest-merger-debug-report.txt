@@ -1,0 +1,364 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml:1:1-28:12
+MERGED from [:react-native-tcp] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-tcp/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-modal-translucent] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-modal-translucent/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-extra-dimensions-android] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-extra-dimensions-android/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-crop-picker] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-28:12
+MERGED from [:react-native-i18n] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-i18n/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-device-info] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-device-info/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-22:12
+MERGED from [:react-native-picker] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-splash-screen] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-network-info] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-network-info/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:react-native-smartconfig] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-smartconfig/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:react-native-iot-wifi] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-iot-wifi/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/f7418feb38eb81f70eb4d91a7d87085a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/30416890c7fba9edb0bbf3d64d9f4b28/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4a0fc3d18975d16be6bbf0280526ac80/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:animated-gif:1.9.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/animated-gif-1.9.0.aar/a5bdb173115364d522095e59f516a7c9/AndroidManifest.xml:2:1-9:12
+MERGED from [id.zelory:compressor:2.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/compressor-2.1.0.aar/af7042cdcf1275a680f0fb7510c853ae/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.0.0.aar/b5c8ea9d8567df9912cc7d78207dc5bb/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.0.aar/9846fe585b369c9ef977fa7161168435/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/7e05c82b439cde4a5fefdb1fe4af032f/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/a0caf477e6867be091e9ce5bbace1674/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/5cc1f5849e75a263fd5b0e75f1f50177/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/04d31a2b13bc4449e1bcb781a52d41a2/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/bbd87c748f2e5e4fd83a06955dbf61d8/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d7e9342b0ce630e6c71d292801026536/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/6150d7707a0298140f477b2fb5b49e0a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/8675d1f14ba24b1ebb1868faeaeeeb2f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/ffca19ede98dcf08446deb5dfaf955fa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/bd6ad5d5e7d439a431a0eadf28213858/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/c3d12d548dd485203b9c6c08c175c71e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/4b11041ded31e304334107ba4d94f5be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:animated-base:1.9.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/animated-base-1.9.0.aar/c81efbd7881c561060de1f9ce74e2e9c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-drawable:1.9.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/animated-drawable-1.9.0.aar/613ab7a205501518e5343e89e57f4f34/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:1.9.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/fresco-1.9.0.aar/594dcc72c59e7ca58dc7ee90c16a1487/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.9.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/drawee-1.9.0.aar/029de836727d0c06088984cd811d2abf/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.9.0.aar/08bfac67251a9f06d9ec25f91f5dd8db/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.9.0.aar/8e4f4b8c4a2a3a2922e9b9a81e0fa04b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.9.0.aar/6348a851eb569216645037c6a36b8ecf/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/fbcore-1.9.0.aar/27cecd5c03f845eaed024d9586da5e7a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/8017d7d6036edcc5f7f5d63109016d8e/AndroidManifest.xml:2:1-13:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2b2eb3effe5d828d413701fb5544c121/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7749914bae1f990dd673d03e6d4b795d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fb92f9f4e55c1d2dcb867be9866d1a8c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/210d238e608447c79d68362e47a8786a/AndroidManifest.xml:10:1-18:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/abd5ae21ff3970f3cde1a292c0b31ae7/AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d29af2fc52d93c1c54ca9b738cf420f6/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml:1:1-28:12
+	package
+		ADDED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml:2:5-32
+		INJECTED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml:1:1-28:12
+		INJECTED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml:1:1-28:12
+		INJECTED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-tcp] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-tcp/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-tcp] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-tcp/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-network-info] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-network-info/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-network-info] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-network-info/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-iot-wifi] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-iot-wifi/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-iot-wifi] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-iot-wifi/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.0.0.aar/b5c8ea9d8567df9912cc7d78207dc5bb/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.0.0.aar/b5c8ea9d8567df9912cc7d78207dc5bb/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.0.aar/9846fe585b369c9ef977fa7161168435/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.0.aar/9846fe585b369c9ef977fa7161168435/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [:react-native-picker] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-78
+MERGED from [:react-native-picker] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/30416890c7fba9edb0bbf3d64d9f4b28/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/30416890c7fba9edb0bbf3d64d9f4b28/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.CAMERA
+ADDED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml:6:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml:7:5-80
+MERGED from [:react-native-image-crop-picker] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:5-81
+MERGED from [:react-native-image-crop-picker] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml:7:22-78
+application
+ADDED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml:9:5-26:19
+MERGED from [:react-native-image-crop-picker] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-26:19
+MERGED from [:react-native-image-crop-picker] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-26:19
+MERGED from [:react-native-device-info] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-device-info/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-20:19
+MERGED from [:react-native-device-info] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-device-info/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-20:19
+MERGED from [:react-native-splash-screen] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/30416890c7fba9edb0bbf3d64d9f4b28/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/30416890c7fba9edb0bbf3d64d9f4b28/AndroidManifest.xml:13:5-20
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.0.0.aar/b5c8ea9d8567df9912cc7d78207dc5bb/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.0.0.aar/b5c8ea9d8567df9912cc7d78207dc5bb/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.0.aar/9846fe585b369c9ef977fa7161168435/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.0.aar/9846fe585b369c9ef977fa7161168435/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/7e05c82b439cde4a5fefdb1fe4af032f/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/7e05c82b439cde4a5fefdb1fe4af032f/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/a0caf477e6867be091e9ce5bbace1674/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/a0caf477e6867be091e9ce5bbace1674/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/5cc1f5849e75a263fd5b0e75f1f50177/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/5cc1f5849e75a263fd5b0e75f1f50177/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/04d31a2b13bc4449e1bcb781a52d41a2/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/04d31a2b13bc4449e1bcb781a52d41a2/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/bbd87c748f2e5e4fd83a06955dbf61d8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/bbd87c748f2e5e4fd83a06955dbf61d8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d7e9342b0ce630e6c71d292801026536/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d7e9342b0ce630e6c71d292801026536/AndroidManifest.xml:25:5-29:19
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/8017d7d6036edcc5f7f5d63109016d8e/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/8017d7d6036edcc5f7f5d63109016d8e/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/abd5ae21ff3970f3cde1a292c0b31ae7/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/abd5ae21ff3970f3cde1a292c0b31ae7/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml:11:7-39
+	android:icon
+		ADDED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml:12:7-41
+	android:allowBackup
+		ADDED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml:13:7-34
+	android:theme
+		ADDED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml:14:7-38
+	android:name
+		ADDED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml:10:7-38
+activity#com.iot_smart_app.MainActivity
+ADDED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml:15:7-24:18
+	android:label
+		ADDED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml:17:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml:19:9-51
+	android:configChanges
+		ADDED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml:18:9-79
+	android:name
+		ADDED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml:16:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml:20:9-23:25
+action#android.intent.action.MAIN
+ADDED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml:21:13-65
+	android:name
+		ADDED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml:21:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml:22:13-73
+	android:name
+		ADDED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml:22:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml:25:7-84
+	android:name
+		ADDED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml:25:17-81
+uses-sdk
+INJECTED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-tcp] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-tcp/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-tcp] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-tcp/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-modal-translucent] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-modal-translucent/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-modal-translucent] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-modal-translucent/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-extra-dimensions-android] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-extra-dimensions-android/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-extra-dimensions-android] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-extra-dimensions-android/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-crop-picker] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-image-crop-picker] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-i18n] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-i18n/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-i18n] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-i18n/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-device-info] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-device-info/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-device-info] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-device-info/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-picker] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-picker] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-network-info] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-network-info/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-network-info] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-network-info/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-smartconfig] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-smartconfig/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-smartconfig] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-smartconfig/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-iot-wifi] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-iot-wifi/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-iot-wifi] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-iot-wifi/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/f7418feb38eb81f70eb4d91a7d87085a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/f7418feb38eb81f70eb4d91a7d87085a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/30416890c7fba9edb0bbf3d64d9f4b28/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/30416890c7fba9edb0bbf3d64d9f4b28/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4a0fc3d18975d16be6bbf0280526ac80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4a0fc3d18975d16be6bbf0280526ac80/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:animated-gif:1.9.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/animated-gif-1.9.0.aar/a5bdb173115364d522095e59f516a7c9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.9.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/animated-gif-1.9.0.aar/a5bdb173115364d522095e59f516a7c9/AndroidManifest.xml:5:5-7:41
+MERGED from [id.zelory:compressor:2.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/compressor-2.1.0.aar/af7042cdcf1275a680f0fb7510c853ae/AndroidManifest.xml:8:5-10:41
+MERGED from [id.zelory:compressor:2.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/compressor-2.1.0.aar/af7042cdcf1275a680f0fb7510c853ae/AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.0.0.aar/b5c8ea9d8567df9912cc7d78207dc5bb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.0.0.aar/b5c8ea9d8567df9912cc7d78207dc5bb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.0.aar/9846fe585b369c9ef977fa7161168435/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.0.aar/9846fe585b369c9ef977fa7161168435/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/7e05c82b439cde4a5fefdb1fe4af032f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/7e05c82b439cde4a5fefdb1fe4af032f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/a0caf477e6867be091e9ce5bbace1674/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/a0caf477e6867be091e9ce5bbace1674/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/5cc1f5849e75a263fd5b0e75f1f50177/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/5cc1f5849e75a263fd5b0e75f1f50177/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/04d31a2b13bc4449e1bcb781a52d41a2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/04d31a2b13bc4449e1bcb781a52d41a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/bbd87c748f2e5e4fd83a06955dbf61d8/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/bbd87c748f2e5e4fd83a06955dbf61d8/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d7e9342b0ce630e6c71d292801026536/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d7e9342b0ce630e6c71d292801026536/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/6150d7707a0298140f477b2fb5b49e0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/6150d7707a0298140f477b2fb5b49e0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/8675d1f14ba24b1ebb1868faeaeeeb2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/8675d1f14ba24b1ebb1868faeaeeeb2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/ffca19ede98dcf08446deb5dfaf955fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/ffca19ede98dcf08446deb5dfaf955fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/bd6ad5d5e7d439a431a0eadf28213858/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/bd6ad5d5e7d439a431a0eadf28213858/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/c3d12d548dd485203b9c6c08c175c71e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/c3d12d548dd485203b9c6c08c175c71e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/4b11041ded31e304334107ba4d94f5be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/4b11041ded31e304334107ba4d94f5be/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:animated-base:1.9.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/animated-base-1.9.0.aar/c81efbd7881c561060de1f9ce74e2e9c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:1.9.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/animated-base-1.9.0.aar/c81efbd7881c561060de1f9ce74e2e9c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:1.9.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/animated-drawable-1.9.0.aar/613ab7a205501518e5343e89e57f4f34/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:1.9.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/animated-drawable-1.9.0.aar/613ab7a205501518e5343e89e57f4f34/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/fresco-1.9.0.aar/594dcc72c59e7ca58dc7ee90c16a1487/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/fresco-1.9.0.aar/594dcc72c59e7ca58dc7ee90c16a1487/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/drawee-1.9.0.aar/029de836727d0c06088984cd811d2abf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/drawee-1.9.0.aar/029de836727d0c06088984cd811d2abf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.9.0.aar/08bfac67251a9f06d9ec25f91f5dd8db/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.9.0.aar/08bfac67251a9f06d9ec25f91f5dd8db/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.9.0.aar/8e4f4b8c4a2a3a2922e9b9a81e0fa04b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.9.0.aar/8e4f4b8c4a2a3a2922e9b9a81e0fa04b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.9.0.aar/6348a851eb569216645037c6a36b8ecf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.9.0.aar/6348a851eb569216645037c6a36b8ecf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/fbcore-1.9.0.aar/27cecd5c03f845eaed024d9586da5e7a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/fbcore-1.9.0.aar/27cecd5c03f845eaed024d9586da5e7a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/8017d7d6036edcc5f7f5d63109016d8e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/8017d7d6036edcc5f7f5d63109016d8e/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2b2eb3effe5d828d413701fb5544c121/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2b2eb3effe5d828d413701fb5544c121/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7749914bae1f990dd673d03e6d4b795d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7749914bae1f990dd673d03e6d4b795d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fb92f9f4e55c1d2dcb867be9866d1a8c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fb92f9f4e55c1d2dcb867be9866d1a8c/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/210d238e608447c79d68362e47a8786a/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/210d238e608447c79d68362e47a8786a/AndroidManifest.xml:14:5-16:41
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d29af2fc52d93c1c54ca9b738cf420f6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d29af2fc52d93c1c54ca9b738cf420f6/AndroidManifest.xml:20:5-44
+INJECTED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/bbd87c748f2e5e4fd83a06955dbf61d8/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml
+provider#android.support.v4.content.FileProvider
+ADDED from [:react-native-image-crop-picker] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:9-21:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-crop-picker] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:13-47
+	android:authorities
+		ADDED from [:react-native-image-crop-picker] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:13-60
+	android:exported
+		ADDED from [:react-native-image-crop-picker] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-crop-picker] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:18:13-20:58
+	android:resource
+		ADDED from [:react-native-image-crop-picker] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:17-55
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:19:17-67
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [:react-native-image-crop-picker] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:23:9-25:72
+	android:theme
+		ADDED from [:react-native-image-crop-picker] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:13-69
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:24:13-60
+receiver#com.learnium.RNDeviceInfo.RNDeviceReceiver
+ADDED from [:react-native-device-info] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-device-info/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:9-19:20
+	android:enabled
+		ADDED from [:react-native-device-info] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-device-info/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:13-35
+	android:exported
+		ADDED from [:react-native-device-info] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-device-info/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:13-36
+	android:name
+		ADDED from [:react-native-device-info] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-device-info/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:13-70
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [:react-native-device-info] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-device-info/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:13-18:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [:react-native-device-info] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-device-info/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:17-79
+	android:name
+		ADDED from [:react-native-device-info] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-device-info/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:25-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-network-info] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-network-info/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-79
+MERGED from [:react-native-iot-wifi] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-iot-wifi/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-79
+MERGED from [:react-native-iot-wifi] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-iot-wifi/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from [:react-native-network-info] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-network-info/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:react-native-network-info] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-network-info/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-76
+MERGED from [:react-native-smartconfig] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-smartconfig/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-76
+MERGED from [:react-native-smartconfig] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-smartconfig/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-76
+MERGED from [:react-native-iot-wifi] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-iot-wifi/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-76
+MERGED from [:react-native-iot-wifi] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-iot-wifi/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from [:react-native-network-info] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-network-info/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [:react-native-smartconfig] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-smartconfig/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-76
+MERGED from [:react-native-iot-wifi] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-iot-wifi/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-76
+MERGED from [:react-native-iot-wifi] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-iot-wifi/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from [:react-native-smartconfig] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-smartconfig/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:22-73
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from [:react-native-smartconfig] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-smartconfig/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-86
+	android:name
+		ADDED from [:react-native-smartconfig] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-smartconfig/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:22-83
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from [:react-native-iot-wifi] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-iot-wifi/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from [:react-native-iot-wifi] /Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-iot-wifi/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:22-76
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:16.0.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.0.0.aar/b5c8ea9d8567df9912cc7d78207dc5bb/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.0.aar/9846fe585b369c9ef977fa7161168435/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.0.aar/9846fe585b369c9ef977fa7161168435/AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:16.0.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.0.0.aar/b5c8ea9d8567df9912cc7d78207dc5bb/AndroidManifest.xml:23:22-79
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/7e05c82b439cde4a5fefdb1fe4af032f/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/7e05c82b439cde4a5fefdb1fe4af032f/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/7e05c82b439cde4a5fefdb1fe4af032f/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/7e05c82b439cde4a5fefdb1fe4af032f/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/04d31a2b13bc4449e1bcb781a52d41a2/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/04d31a2b13bc4449e1bcb781a52d41a2/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/04d31a2b13bc4449e1bcb781a52d41a2/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/bbd87c748f2e5e4fd83a06955dbf61d8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d7e9342b0ce630e6c71d292801026536/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d7e9342b0ce630e6c71d292801026536/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/bbd87c748f2e5e4fd83a06955dbf61d8/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/wuliping/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/bbd87c748f2e5e4fd83a06955dbf61d8/AndroidManifest.xml:27:13-51
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml:1:1-28:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/wuliping/workspace/codegiant/iot_smart_app/android/app/src/main/AndroidManifest.xml:1:1-28:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

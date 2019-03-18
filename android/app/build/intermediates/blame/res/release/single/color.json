@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/Users/wuliping/workspace/codegiant/iot_smart_app/android/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/wuliping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4a0fc3d18975d16be6bbf0280526ac80/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/wuliping/workspace/codegiant/iot_smart_app/android/app/build/intermediates/res/merged/release/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/wuliping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4a0fc3d18975d16be6bbf0280526ac80/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/wuliping/workspace/codegiant/iot_smart_app/android/app/build/intermediates/res/merged/release/color/abc_tint_spinner.xml",
+        "source": "/Users/wuliping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4a0fc3d18975d16be6bbf0280526ac80/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/wuliping/workspace/codegiant/iot_smart_app/android/app/build/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/7e05c82b439cde4a5fefdb1fe4af032f/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/wuliping/workspace/codegiant/iot_smart_app/android/app/build/intermediates/res/merged/release/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/wuliping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4a0fc3d18975d16be6bbf0280526ac80/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/wuliping/workspace/codegiant/iot_smart_app/android/app/build/intermediates/res/merged/release/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/wuliping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4a0fc3d18975d16be6bbf0280526ac80/res/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/wuliping/workspace/codegiant/iot_smart_app/android/app/build/intermediates/res/merged/release/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/wuliping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4a0fc3d18975d16be6bbf0280526ac80/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/wuliping/workspace/codegiant/iot_smart_app/android/app/build/intermediates/res/merged/release/color/abc_tint_default.xml",
+        "source": "/Users/wuliping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4a0fc3d18975d16be6bbf0280526ac80/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/wuliping/workspace/codegiant/iot_smart_app/android/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/wuliping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4a0fc3d18975d16be6bbf0280526ac80/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/wuliping/workspace/codegiant/iot_smart_app/android/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/wuliping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4a0fc3d18975d16be6bbf0280526ac80/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/wuliping/workspace/codegiant/iot_smart_app/android/app/build/intermediates/res/merged/release/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/wuliping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4a0fc3d18975d16be6bbf0280526ac80/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/wuliping/workspace/codegiant/iot_smart_app/android/app/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/Users/wuliping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4a0fc3d18975d16be6bbf0280526ac80/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/wuliping/workspace/codegiant/iot_smart_app/android/app/build/intermediates/res/merged/release/color/ucrop_scale_text_view_selector.xml",
+        "source": "/Users/wuliping/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/f7418feb38eb81f70eb4d91a7d87085a/res/color/ucrop_scale_text_view_selector.xml"
+    },
+    {
+        "merged": "/Users/wuliping/workspace/codegiant/iot_smart_app/android/app/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/Users/wuliping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4a0fc3d18975d16be6bbf0280526ac80/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/wuliping/workspace/codegiant/iot_smart_app/android/app/build/intermediates/res/merged/release/color/abc_tint_switch_track.xml",
+        "source": "/Users/wuliping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4a0fc3d18975d16be6bbf0280526ac80/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/wuliping/workspace/codegiant/iot_smart_app/android/app/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/Users/wuliping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4a0fc3d18975d16be6bbf0280526ac80/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/wuliping/workspace/codegiant/iot_smart_app/android/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/wuliping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4a0fc3d18975d16be6bbf0280526ac80/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/wuliping/workspace/codegiant/iot_smart_app/android/app/build/intermediates/res/merged/release/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/wuliping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4a0fc3d18975d16be6bbf0280526ac80/res/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/wuliping/workspace/codegiant/iot_smart_app/android/app/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/wuliping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4a0fc3d18975d16be6bbf0280526ac80/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/wuliping/workspace/codegiant/iot_smart_app/android/app/build/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/7e05c82b439cde4a5fefdb1fe4af032f/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/wuliping/workspace/codegiant/iot_smart_app/android/app/build/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/wuliping/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/7e05c82b439cde4a5fefdb1fe4af032f/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/wuliping/workspace/codegiant/iot_smart_app/android/app/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/Users/wuliping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4a0fc3d18975d16be6bbf0280526ac80/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/wuliping/workspace/codegiant/iot_smart_app/android/app/build/intermediates/res/merged/release/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/wuliping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4a0fc3d18975d16be6bbf0280526ac80/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/wuliping/workspace/codegiant/iot_smart_app/android/app/build/intermediates/res/merged/release/color/abc_tint_edittext.xml",
+        "source": "/Users/wuliping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/4a0fc3d18975d16be6bbf0280526ac80/res/color/abc_tint_edittext.xml"
+    }
+]

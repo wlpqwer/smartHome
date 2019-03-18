@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot_smart_app.iml" filepath="$PROJECT_DIR$/iot_smart_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-device-info/android/react-native-device-info.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-device-info/android/react-native-device-info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-i18n/android/react-native-i18n.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-i18n/android/react-native-i18n.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-image-crop-picker/android/react-native-image-crop-picker.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-image-crop-picker/android/react-native-image-crop-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-image-picker/android/react-native-image-picker.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-image-picker/android/react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-iot-wifi/android/react-native-iot-wifi.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-iot-wifi/android/react-native-iot-wifi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-network-info/android/react-native-network-info.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-network-info/android/react-native-network-info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-picker/android/react-native-picker.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-picker/android/react-native-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-smartconfig/android/react-native-smartconfig.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-smartconfig/android/react-native-smartconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/react-native-splash-screen.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/react-native-splash-screen.iml" />
+    </modules>
+  </component>
+</project>

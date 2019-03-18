@@ -1,0 +1,36 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'iot_smart_app' do
+  pod 'AppCenter/Crashes', '~> 1.9.0'
+  pod 'AppCenter/Analytics', '~> 1.9.0'
+  pod 'AppCenterReactNativeShared', '~> 1.8.1'
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+  # use_frameworks!
+
+  # Pods for iot_smart_app
+
+  
+
+  platform :ios, '9.0'
+  pod 'RNImageCropPicker', :path => '../node_modules/react-native-image-crop-picker'
+
+  target 'iot_smart_appTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
+
+target 'iot_smart_app-tvOS' do
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+  # use_frameworks!
+
+  # Pods for iot_smart_app-tvOS
+
+  target 'iot_smart_app-tvOSTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end

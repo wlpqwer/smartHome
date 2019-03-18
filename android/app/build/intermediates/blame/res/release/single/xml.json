@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/wuliping/workspace/codegiant/iot_smart_app/android/app/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/wuliping/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/30416890c7fba9edb0bbf3d64d9f4b28/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/wuliping/workspace/codegiant/iot_smart_app/android/app/build/intermediates/res/merged/release/xml/provider_paths.xml",
+        "source": "/Users/wuliping/workspace/codegiant/iot_smart_app/node_modules/react-native-image-crop-picker/android/build/intermediates/packaged_res/release/xml/provider_paths.xml"
+    }
+]
